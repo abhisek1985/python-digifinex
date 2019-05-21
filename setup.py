@@ -5,7 +5,7 @@ with open("README.md", "r") as fh:
 
 setuptools.setup(
     name="python-digifinex",   # My package name
-    version="0.0.1",
+    version="0.0.2",
     author="Abhisek Roy",
     author_email="abhisekroy.cse@gmail.com",
     description="Digifinex APIs in Python",

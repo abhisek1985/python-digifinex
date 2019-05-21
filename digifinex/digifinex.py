@@ -1,7 +1,7 @@
 import hashlib
 import datetime
 import requests
-from error_codes import error_dict
+from .error_codes import error_dict
 
 
 def createSignature(api_key, api_secret):
